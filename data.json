@@ -1,0 +1,20 @@
+[
+    {
+        "id": "EMP002",
+        "name": "Raegan",
+        "department": "Software Consultancy",
+        "role": "Software Consultant",
+        "salary": 200000,
+        "type": "Full Time",
+        "mode": "Office"
+    },
+    {
+        "id": "EMP003",
+        "name": "Raj",
+        "department": "HR",
+        "role": "HR ",
+        "salary": 185000,
+        "type": "Full Time",
+        "mode": "Hybrid"
+    }
+]
